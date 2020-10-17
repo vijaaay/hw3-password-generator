@@ -1,5 +1,4 @@
-# Homework: Code Refactor
-https://github.com/vijaaay/hw1-code-refactor/blob/main/code-refactor-screenshot.png
+# Homework: Password Generator
 
 # Site
 https://vijaaay.github.io/hw3-password-generator/
